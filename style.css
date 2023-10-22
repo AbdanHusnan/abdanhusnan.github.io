@@ -564,6 +564,28 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Feedback form
+--------------------------------------------------------------*/
+.feedbackForm .container{
+  width: 700px;
+  height: fit-content;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color:#f8f9fa;
+  border-radius: 10px;
+}
+
+.feedbackForm .container h1{
+  font-weight: bold;
+  font-size: smaller;
+}
+
+.buttonPost{
+  margin-top: 10px;
+}
+
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
